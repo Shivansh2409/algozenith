@@ -1,0 +1,128 @@
+.part{
+    top: 363px;
+    left: 814px;
+    gap: 0px;
+    opacity: 0px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    overflow: hidden;
+
+    border: solid;
+    box-shadow: 0px 4px 20px 0px #172B4D1A;
+    border-radius: 16px;
+    border: 1px solid #A4E6FF;
+    
+
+}
+.part-1{
+    padding: 0;
+    margin: 0;
+    width: 1001px;
+    height: 160px;
+    top: 363px;
+    left: 814px;
+    gap: 0px;
+    border-radius: 16px ;
+    border-bottom: 10px solid #172B4DD9;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.title-1{
+    margin-left: 32px;
+    margin-top: 38px;
+}
+.con-1{
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0.03em;
+    text-align: justify;
+
+}
+.con-2{
+    font-family: DM Sans;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: -0.03em;
+    text-align: justify;
+
+}
+.part-info{
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+    width: 421px;
+    height: 36px;
+
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 46px;
+    margin-right: 31px;
+    color: #17384D;
+
+
+
+}
+
+.time-11{
+    width: 146px;
+    height: 36px;
+    display: flex;
+    justify-content: space-around;
+ 
+    align-items: center;
+
+
+}
+.mide{
+    width: 131px;
+    height: 36px;
+    display: flex;
+    justify-content: space-around;
+ 
+    align-items: center;
+
+}
+.num{
+    width:59px ;
+    height:36px ;
+    display: flex;
+    justify-content: space-around;
+ 
+    align-items: center;
+}
+.progress{
+    width: 162px;
+    height: Hug (34px)px;
+    top: 104px;
+    left: 808px;
+    padding: 4px 10px 4px 10px;
+    gap: 10px;
+    border-radius: 8px ;
+    
+    opacity: 0px;
+
+    background: #EFF5FF;
+    border: 1px solid #99E4FF;
+
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26.04px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    float: right;
+    margin-right: 31px;
+    margin-top: 22px;
+
+
+}

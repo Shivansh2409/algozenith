@@ -1,0 +1,62 @@
+/* Home.css */
+body{
+    background: rgba(255, 255, 255, 1);
+
+    color: black;
+}
+.app {
+    display: inline-block;
+    background-color: #f9fafb;
+  }
+  
+  
+  .header {
+    display: flex;
+  }
+  
+  .chapter-list {
+    width: 200px;
+    padding: 20px;
+    background-color: #f9fafb;
+  }
+  
+  .parts {
+    flex: 1;
+    position: absolute;
+    top: 202px;
+    left: 414px;
+
+    width: 1002px;
+    height: 1092px;
+    
+    gap: 0px;
+    opacity: 0px;
+
+  }
+  
+  
+  .part h3 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .item {
+    display: flex;
+    justify-content: space-between;
+  }
+  main{
+    width: 1456px;
+    height: 1527px;
+    position: absolute;
+    top: 161px;
+    left: 400px;
+    gap: 0px;
+    border-radius: 16px;
+    border: 1px solid rgba(164, 230, 255, 1);
+    opacity: 0px;
+
+  }
+  .content{
+    display: flex;
+  }
+  

@@ -1,0 +1,38 @@
+.pp{
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    background: rgba(217, 217, 217, 1);
+    margin-left: 10px;
+    
+
+}
+.bee{
+    position: absolute;
+    top: 58px;
+    left: 1716px;
+}
+.bell{
+    display: flex;
+    width: 140px;
+    /* margin-top: 65px; */
+}
+.b img{
+    width: 22.4px;
+    height: 25.6px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.b{
+    width: Hug (52.4px)px;
+    height: 30px;
+    margin-top: 4px;
+    padding: 12px 15px 12px 15px;
+    gap: 10px;
+    border-radius: 6px;
+    opacity: 0px;
+    
+    background: rgba(231, 248, 255, 1);
+
+}
